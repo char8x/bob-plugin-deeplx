@@ -5,8 +5,8 @@
     "name": "DeepL X",
     "summary": "Plugin based on OwO-Network/DeepLX",
     "author": "missuo",
-    "appcast": "https://github.com/missuo/bob-plugin-deeplx/raw/main/appcast.json",
-    "homepage": "https://github.com/missuo/bob-plugin-deeplx",
+    "appcast": "https://github.com/char8x/bob-plugin-deeplx/raw/main/appcast.json",
+    "homepage": "https://github.com/char8x/bob-plugin-deeplx",
     "icon": "icon.png",
     "minBobVersion": "0.5.0",
     "options": [
