@@ -4,9 +4,9 @@
  * @LastEditors: Vincent Young
  * @LastEditTime: 2023-03-10 16:01:44
  * @FilePath: /bob-plugin-deeplx/src/lang.js
- * @Telegram: https://t.me/missuo
- * 
- * Copyright © 2023 by Vincent, All Rights Reserved. 
+ * @Telegram: https://t.me/char8x
+ *
+ * Copyright © 2023 by Vincent, All Rights Reserved.
  */
 
 var supportedLanguages = [
@@ -19,7 +19,7 @@ var supportedLanguages = [
     ["en", "EN"], // English
     ["es", "ES"], // Spanish
     ["et", "ET"], // Estonian
-    ["fi", "FI"], // Finnish 
+    ["fi", "FI"], // Finnish
     ["fr", "FR"], // French
     ["hu", "HU"], // Hungarian
     ["id", "ID"], // Indonesian
@@ -28,7 +28,7 @@ var supportedLanguages = [
     ["lt", "LT"], // Lithuanian
     ["lv", "LV"], // Latvian
     ["nl", "NL"], // Dutch
-    ["pl", "PL"], // Polish 
+    ["pl", "PL"], // Polish
     ["pt", "PT"], // Portuguese
     ["ro", "RO"], // Romanian
     ["ru", "RU"], // Russian

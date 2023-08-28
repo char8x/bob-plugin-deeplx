@@ -4,9 +4,9 @@
  * @LastEditors: Vincent Young
  * @LastEditTime: 2023-03-28 18:02:37
  * @FilePath: /bob-plugin-deeplx/src/main.js
- * @Telegram: https://t.me/missuo
- * 
- * Copyright © 2023 by Vincent, All Rights Reserved. 
+ * @Telegram: https://t.me/char8x
+ *
+ * Copyright © 2023 by Vincent, All Rights Reserved.
  */
 var lang = require("./lang.js");
 

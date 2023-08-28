@@ -1,10 +1,10 @@
 {
-    "identifier": "me.missuo.deeplx.translate",
+    "identifier": "me.char8x.deeplx.translate",
     "category": "translate",
     "version": "1.0.5",
     "name": "DeepL X",
     "summary": "Plugin based on OwO-Network/DeepLX",
-    "author": "missuo",
+    "author": "char8x",
     "appcast": "https://github.com/char8x/bob-plugin-deeplx/raw/main/appcast.json",
     "homepage": "https://github.com/char8x/bob-plugin-deeplx",
     "icon": "icon.png",
